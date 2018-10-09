@@ -3,8 +3,8 @@
 class Dog 
 
   
-  def initialize(file, name)
-    @name = name
+  def initialize
+    @name = self
   end 
   
   def name 
